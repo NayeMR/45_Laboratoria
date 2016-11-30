@@ -1,8 +1,17 @@
 $primaryColor: #eeffcc;
+$width: 5em;
+.bgPan
+	background:blue
 
-.Mobyle{
+.Mobyle
    	background: $primaryColor;
-    img{
-    	width: 50%;
-    }
-}
+    img:$width;
+
+.seccionImgTexto
+	img:$width;
+	p
+		font-size: 1em;
+footer
+	img
+		width:7em;
+	
