@@ -1,0 +1,16 @@
+$ancho: 5em;
+$altura:5em;
+$color: rgb(60,177,247);
+$padding: 5em;
+
+p{
+	width: $color
+}
+.mobyle{
+	backgroung-image:url("../images/conchas.jpg");
+	background-size: 100% cover;
+	padding: 10%;
+}
+.fuctures{
+	background-color: $color;
+}
